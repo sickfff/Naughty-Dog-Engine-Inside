@@ -8,7 +8,7 @@
 
 Welcome to **Naughty Dog Engine: Behind the Scenes**, a repository dedicated to researching and explaining how Naughty Dog’s proprietary game engine has evolved into one of the most powerful and expressive engines in the gaming industry. This project aims to serve as a detailed educational resource on the core technologies used to build **Uncharted 4: A Thief’s End** and **The Last of Us Part II**.
 
-🛠️ Maintained by: [Gabriel Roriz Silva](https://github.com/gabrielrorizsilva)
+🛠️ Maintained by: [𐌔𐌉𐌂𐌊.dll](https://github.com/sickfff)
 
 ---
 
@@ -182,7 +182,7 @@ Key developers who contributed:
 
 ## 🔁 Connect with Me
 
-📍 [Github:](https://github.com/groriz11)
+📍 [Github:](https://github.com/sickfff)
 
 If you found this repository useful, please ⭐ it and share with other developers who admire technical storytelling in games.
 
